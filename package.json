@@ -1,0 +1,26 @@
+{
+  "name": "restapitest",
+  "version": "1.0.0",
+  "description": "simple rest api for android STILL TESTING",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sameer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.3.0",
+    "mongodb": "^2.2.34",
+    "mongoose": "^4.12.1",
+    "node-schedule": "^1.3.0",
+    "nodemailer": "^4.6.6",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.4.0"
+  }
+}
